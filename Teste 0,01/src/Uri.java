@@ -7,7 +7,7 @@ public class Uri {
 		double area, raio;
 		double pi = 3.14159;
 		raio = Tec.nextDouble();
-		area = 3.14159 * Math.pow(raio,2);
+		area = pi * Math.pow(raio,2);
 		System.out.println(String.format("A=%.4f",area));
 		
 		Tec.close();

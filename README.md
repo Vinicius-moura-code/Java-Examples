@@ -1,5 +1,4 @@
-<h1>URI<h1>
-</br>
+# Exercicios#
 
 Este repositório foi criado para organizar as resoluçoes dos exercicios realizados no tempo livre.
 

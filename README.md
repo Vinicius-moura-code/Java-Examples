@@ -1,4 +1,4 @@
-# Exercicios#
+#Exercicios
 
 Este repositório foi criado para organizar as resoluçoes dos exercicios realizados no tempo livre.
 
@@ -19,4 +19,5 @@ Fique a vontade para pesquisar no material e caso queira contribuir !
 
 
 <br>
+
 [![License: Open Font-1.1](https://img.shields.io/badge/License-OFL%201.1-lightgreen.svg)](https://opensource.org/licenses/OFL-1.1) 

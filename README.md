@@ -1,4 +1,4 @@
-#Exercicios
+<h1>Exercicios</h1>
 
 Este repositório foi criado para organizar as resoluçoes dos exercicios realizados no tempo livre.
 

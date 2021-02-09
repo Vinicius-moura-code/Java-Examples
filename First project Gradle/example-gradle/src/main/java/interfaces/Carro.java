@@ -1,6 +1,6 @@
 package interfaces;
 
-public interface Carro {
+public interface Carro extends Automovel{
     String marca();
 
     default void ligar() {

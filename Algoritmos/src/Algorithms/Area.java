@@ -1,6 +1,6 @@
 package Algorithms;
 import java.util.Scanner;
-public class Uri {
+public class Area {
 
 	public static void main(String[] args) {
 		Scanner Tec = new Scanner(System.in);

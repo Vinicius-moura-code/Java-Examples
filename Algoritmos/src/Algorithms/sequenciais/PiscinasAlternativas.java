@@ -1,15 +1,16 @@
 package Algorithms.sequenciais;
 
-
-import java.util.Locale;
 import java.util.Scanner;
 
-public class BaseDeClasses {
+public class PiscinasAlternativas {
     public static void main(String[]args){
-        Locale.setDefault(new Locale("en", "usa"));
         Scanner tec = new Scanner(System.in);
         //Variaveis//Input
+        double b = tec.nextDouble();
+        double h = tec.nextDouble();
         //Código
+        System.out.printf("%.2f\n", (b * h)/2);
+        System.out.printf("%.2f", (b * h));
         tec.close();
     }
 }

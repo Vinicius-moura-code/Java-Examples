@@ -1,4 +1,4 @@
-package Models.ControleDeEstoque;
+package models.controleDeEstoque;
 
 import java.text.DecimalFormat;
 

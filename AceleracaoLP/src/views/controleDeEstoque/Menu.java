@@ -1,12 +1,12 @@
-package Views.ControleDeEstoque;
+package views.controleDeEstoque;
 
-import Models.ControleDeEstoque.Product;
-import Utils.CurrencyConverter;
+import models.controleDeEstoque.Product;
+import utils.CurrencyConverter;
 
 import java.util.Scanner;
 
 public class Menu {
-    Scanner tec = new Scanner(System.in);
+    final Scanner tec = new Scanner(System.in);
 
     public Menu() {
         String name;

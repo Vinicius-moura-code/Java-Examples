@@ -1,14 +1,10 @@
-package Views.LocacaoAutomoveis;
+package views.locacaoAutomoveis;
 
-import Models.LocacaoAutomoveis.Cliente;
-import Models.LocacaoAutomoveis.Locacao;
-import Models.LocacaoAutomoveis.Veiculo;
+import models.locacaoAutomoveis.Cliente;
+import models.locacaoAutomoveis.Locacao;
+import models.locacaoAutomoveis.Veiculo;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
 
 public class Menu {
 

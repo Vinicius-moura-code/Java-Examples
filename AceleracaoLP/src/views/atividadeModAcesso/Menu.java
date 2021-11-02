@@ -1,8 +1,8 @@
-package Views.AtividadeModAcesso;
+package views.atividadeModAcesso;
 
-import Models.AtividadeModAcesso.Casa;
-import Models.AtividadeModAcesso.Pessoa;
-import Models.AtividadeModAcesso.Porta;
+import models.atividadeModAcesso.Casa;
+import models.atividadeModAcesso.Pessoa;
+import models.atividadeModAcesso.Porta;
 
 import java.util.Scanner;
 

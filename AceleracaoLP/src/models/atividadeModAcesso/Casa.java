@@ -1,4 +1,4 @@
-package Models.AtividadeModAcesso;
+package models.atividadeModAcesso;
 
 public class Casa extends Porta{
     private Porta porta1 = new Porta();

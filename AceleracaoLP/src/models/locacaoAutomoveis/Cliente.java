@@ -1,4 +1,4 @@
-package Models.LocacaoAutomoveis;
+package models.locacaoAutomoveis;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

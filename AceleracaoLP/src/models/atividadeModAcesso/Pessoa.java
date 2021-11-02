@@ -1,4 +1,4 @@
-package Models.AtividadeModAcesso;
+package models.atividadeModAcesso;
 
 public class Pessoa {
     private String nome;

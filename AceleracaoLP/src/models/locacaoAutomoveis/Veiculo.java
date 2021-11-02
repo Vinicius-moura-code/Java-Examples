@@ -1,4 +1,4 @@
-package Models.LocacaoAutomoveis;
+package models.locacaoAutomoveis;
 
 import java.util.ArrayList;
 import java.util.List;

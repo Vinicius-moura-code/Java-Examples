@@ -15,34 +15,48 @@ public class Main {
 
         do {
             System.out.println(" - Selecione uma função" + System.lineSeparator());
-            System.out.print("1 - Locação de veículos\n2 - Tópico 4\n3 - Controle de estoque\n4 - Converter Dollar para real\n5 - Atividade sobre List" + System.lineSeparator());
+            System.out.print("1 - Locação de veículos\n2 - Tópico 4\n3 - Controle de estoque\n4 - Converter Dollar para real\n5 - Atividade sobre List\n6 - Zoologico\n7 - Banco\n8 - Banco Polimormismo" + System.lineSeparator());
             int option = tec.nextInt();
 
             switch (option) {
-                case 1:
+                case 1 -> {
                     new Menu();
                     find = true;
-                    break;
-                case 2:
+                }
+                case 2 -> {
                     new views.atividadeModAcesso.Menu();
                     find = true;
-                    break;
-                case 3:
+                }
+                case 3 -> {
                     new views.controleDeEstoque.Menu();
                     find = true;
-                    break;
-                case 4:
+                }
+                case 4 -> {
                     new CurrencyConverter();
                     find = true;
-                    break;
-                case 5:
+                }
+                case 5 -> {
                     new views.atividadeList.Menu();
                     find = true;
-                    break;
-                default:
+                }
+                case 6 -> {
+                    new views.zoologico.Menu();
+                    find = true;
+                }
+                case 7 -> {
+                    new views.banco.Menu();
+                    find = true;
+                }
+                case 8 -> {
+                    new views.bancoPoli.Menu();
+                    find = true;
+                }
+                default -> {
                     System.out.println("Opção Invalida");
                     find = false;
+                }
             }
         } while (!find);
+        tec.close();
     }
 }

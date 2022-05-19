@@ -9,7 +9,7 @@ Dentro dele você vai encontrar: </h2>
 - Projetos pessoais
 
 
-Nas linguagens Java e Javascript.
+Na linguagem Java.
 
 <h3>
 Fique a vontade para pesquisar no material e caso queira contribuir ! 
